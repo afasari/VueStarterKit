@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# fixing if there is error installation (^my additional)
+npm audit fix --foec 
+
 # serve with hot reload at localhost:8080
 npm run dev
 
